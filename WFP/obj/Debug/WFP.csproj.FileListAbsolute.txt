@@ -1,0 +1,15 @@
+F:\VC\WFP\WFP\bin\Debug\WFP.exe.config
+F:\VC\WFP\WFP\bin\Debug\WFP.exe
+F:\VC\WFP\WFP\bin\Debug\WFP.pdb
+F:\VC\WFP\WFP\obj\Debug\WFP.csprojResolveAssemblyReference.cache
+F:\VC\WFP\WFP\obj\Debug\MainWindow.g.cs
+F:\VC\WFP\WFP\obj\Debug\App.g.cs
+F:\VC\WFP\WFP\obj\Debug\WFP_MarkupCompile.cache
+F:\VC\WFP\WFP\obj\Debug\WFP_MarkupCompile.lref
+F:\VC\WFP\WFP\obj\Debug\MainWindow.baml
+F:\VC\WFP\WFP\obj\Debug\WFP.g.resources
+F:\VC\WFP\WFP\obj\Debug\WFP.Properties.Resources.resources
+F:\VC\WFP\WFP\obj\Debug\WFP.csproj.GenerateResource.Cache
+F:\VC\WFP\WFP\obj\Debug\WFP.csproj.CoreCompileInputs.cache
+F:\VC\WFP\WFP\obj\Debug\WFP.exe
+F:\VC\WFP\WFP\obj\Debug\WFP.pdb
